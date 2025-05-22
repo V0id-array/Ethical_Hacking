@@ -1,1 +1,1 @@
-En este este directorio subiré retos de CTF que he creado para un torneo en el IES Rafael Alberti (Cádiz) en 2025
+En este este directorio subiré retos los retos que he creado para el CTF de 2025 del instituto IES Rafael Alberti (Cádiz)
